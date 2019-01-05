@@ -1,0 +1,10 @@
+Package: comPath
+Type: Package
+Title: Integrating proteomic and phosphoproteomic data for pathway analysis
+Version: 0.1.0
+Author: Jie Ren, Jing Li
+Maintainer: Jie Ren <ntrenjie@163.com>
+Description: A package Integrats proteomic and phosphoproteomic data for pathway analysis, evaluates and visualizes the different impapcts between proteome and phosphoproteome on a disturbed pathway.
+Encoding: UTF-8
+LazyData: true
+Depends: gage, SPIA, mosaic, ggplot2, ggbeeswarm, ggrepel, dplyr, pathview, plyr, KEGGprofile, utils, HTSanalyzeR, fields, grDevices, graphics, png
